@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexia</h1>
-- 🔭 I’m currently working on **learning programming with The Hacking Project**
+
+🔭 I’m currently learning programming with The Hacking Project
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
