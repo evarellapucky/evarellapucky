@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alexia</h1>
+
 - 🔭 I just finished **learning web development with The Hacking Project and got my certification (Yayyyyyy !!)**
 
 - 👯 I’m looking **for my first job as a web developer, which is really exciting.**
 
-- - 🌱 I’m currently learning **Vue.js and C# (.NET) to improve my skills and knowledge**
+-  🌱 I’m currently learning **Vue.js and C# (.NET) to improve my skills and knowledge**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
